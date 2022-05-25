@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelestia_docs=self.webpackChunkcelestia_docs||[]).push([[116],{2133:function(e){e.exports=JSON.parse('{"title":"Resources","slug":"/category/resources","permalink":"/category/resources","navigation":{"previous":{"title":"DevNet-2","permalink":"/nodes/devnet-2"},"next":{"title":"DevOps Resources","permalink":"/nodes/devops-resources"}}}')}}]);
