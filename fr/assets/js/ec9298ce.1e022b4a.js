@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelestia_docs=self.webpackChunkcelestia_docs||[]).push([[1451],{4274:function(e){e.exports=JSON.parse('{"title":"Optimint","slug":"/category/optimint","permalink":"/fr/category/optimint","navigation":{"previous":{"title":"Node API","permalink":"/fr/developers/node-api"},"next":{"title":"Wordle","permalink":"/fr/category/wordle"}}}')}}]);
