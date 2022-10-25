@@ -4,8 +4,8 @@
   <ShortName>Build Modular.</ShortName>
   <Description>Search Build Modular.</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.celestia.org/zh/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.celestia.org/zh/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.celestia.org/zh/opensearch.xml" />
-  <moz:SearchForm>https://docs.celestia.org/zh/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.celestia.org/pr-preview/pr-275/zh/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.celestia.org/pr-preview/pr-275/zh/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.celestia.org/pr-preview/pr-275/zh/opensearch.xml" />
+  <moz:SearchForm>https://docs.celestia.org/pr-preview/pr-275/zh/</moz:SearchForm>
 </OpenSearchDescription>
